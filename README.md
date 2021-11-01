@@ -9,5 +9,5 @@
  ## 🖐 About me
 - 🌱 I’m currently developing my **skills**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 😴 I've become lazy
+- 😴 My sleeping hours are different
 
