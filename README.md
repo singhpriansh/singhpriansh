@@ -9,6 +9,7 @@
  ## 🖐 About me
 - 🌱 I’m currently developing my **skills**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👨‍💻 I am a competitive **coder**
 - 😴 My sleeping hours are different
 
 ## Connect with me:
