@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/singhpriansh/singhpriansh/master/wave.gif" width="30px">, I'm Priyanshu</h1>
+<h1 align="center">Hi <img  width="30px" src="https://raw.githubusercontent.com/singhpriansh/singhpriansh/master/wave.gif">, I'm Priyanshu</h1>
 
 <p align="center">
     <img height="200px" width="auto"  src="https://raw.githubusercontent.com/singhpriansh/singhpriansh/master/developer_image.png" />
