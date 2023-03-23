@@ -6,13 +6,15 @@
 
 <h3 align="center">I'm a passionate Software Developer from India.</h3>
 
- ## 🖐 About me
+## 🖐 About me
+
 - 🌱 I’m currently developing my **skills**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 I am a competitive **coder**
-- 😴 My sleeping hours are different
+- 😇 Being normal is the **key**. Keep it **simple**
 
-## Connect with me:
+## Connect with me
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/singhpriansh/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
