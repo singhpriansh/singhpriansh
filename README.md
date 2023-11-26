@@ -30,7 +30,6 @@
 <p style="float:left; position:relative">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=singhpriansh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Priyanshu Kumar's Github Stats"/>
 </p>
-<br><br><br><br><br><br><br><br><br>
 
 <h2>
 🚀 Tech Stack
