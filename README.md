@@ -24,11 +24,11 @@
 
 ## 📊 My Github Stats
 
-<p style="float:left; position:relative">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=singhpriansh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&hide_border=true&bg_color=0D1117" alt="Priyanshu Kumar's Github Stats"/>
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=singhpriansh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&hide_border=true&bg_color=0D1117&background=transparent" alt="Priyanshu Kumar's Github Stats"/>
 </p>
-<p style="float:left; position:relative">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=singhpriansh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Priyanshu Kumar's Github Stats"/>
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=singhpriansh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&background=transparent" alt="Priyanshu Kumar's Github Stats"/>
 </p>
 
 <h2>
@@ -73,7 +73,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
 </p>
-
 
 ## Connect with me
 
