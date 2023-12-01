@@ -25,7 +25,7 @@
 ## 📊 My Github Stats
 
 <p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=singhpriansh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&hide_border=true&bg_color=0D1117&background=transparent" alt="Priyanshu Kumar's Github Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=singhpriansh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&background=transparent" alt="Priyanshu Kumar's Github Stats"/>
 </p>
 <p>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=singhpriansh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&background=transparent" alt="Priyanshu Kumar's Github Stats"/>
