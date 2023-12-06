@@ -14,22 +14,16 @@
 - 😇 Being normal is the **key**. Keep it **simple**
 - ⚡ Fun fact/Interest: Listening songs, Watching movies & Football, Playing Chess
 
-## ⭐️ My Contribution Streak 🔥🔥
+## 📊 Github Stats & Activity
 
-<p align="left">
-  <a href="https://streak-stats.demolab.com?user=singhpriash">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Priyanshu Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=singhpriansh&theme=react&hide_border=true&bg_color=0D1117&background=transparent"/>
-  </a>
-</p>
+⭐️ My Contribution Streak 🔥🔥
 
-## 📊 My Github Stats
+> [![GitHub Streak](https://streak-stats.demolab.com?user=singhpriansh&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0%2CEB545400%2CEB545400)](https://git.io/streak-stats)
 
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=singhpriansh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&background=transparent" alt="Priyanshu Kumar's Github Stats"/>
-</p>
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=singhpriansh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&background=transparent" alt="Priyanshu Kumar's Github Stats"/>
-</p>
+> ![singhpriansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhpriansh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&background=0%2CEB545400%2CEB545400) ![singhpriansh's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhpriansh&layout=compact&theme=react&hide_border=true&bg_color=0D1117&background=0%2CEB545400%2CEB545400)
+
+![singhpriansh's graph](https://github-readme-activity-graph.vercel.app/graph/?username=singhpriansh&theme=react&hide_border=true&bg_color=0D1117&background=0%2CEB545400%2CEB545400)
+
 
 <h2>
 🚀 Tech Stack
@@ -95,3 +89,5 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
+
+[![Badges](https://holopin.me/singhpriansh)](https://holopin.io/@singhpriansh)
