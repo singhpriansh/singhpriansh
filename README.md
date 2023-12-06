@@ -90,4 +90,8 @@
   </a>
 </div>
 
-[![Badges](https://holopin.me/singhpriansh)](https://holopin.io/@singhpriansh)
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+  
+  [![Badges](https://holopin.me/singhpriansh)](https://holopin.io/@singhpriansh)
+</details>
