@@ -18,7 +18,7 @@
 
 ⭐️ My Contribution Streak 🔥🔥
 
-> [![GitHub Streak](https://streak-stats.demolab.com?user=singhpriansh&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0%2CEB545400%2CEB545400)](https://git.io/streak-stats)
+> ![GitHub Streak](https://streak-stats.demolab.com?user=singhpriansh&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0%2CEB545400%2CEB545400)
 
 > ![singhpriansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhpriansh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&background=0%2CEB545400%2CEB545400) ![singhpriansh's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhpriansh&layout=compact&theme=react&hide_border=true&bg_color=0D1117&background=0%2CEB545400%2CEB545400)
 
