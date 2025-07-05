@@ -81,5 +81,5 @@
   </a>
 </div>
 
-## Holopin Badges
+## Summary
 ![GitHub_Streak](https://streak-stats.demolab.com?user=singhpriansh&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0%2CEB545400%2CEB545400)
