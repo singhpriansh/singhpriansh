@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img  height="30px" width="30px" src="https://raw.githubusercontent.com/singhpriansh/singhpriansh/master/wave.gif">, I'm Priyanshu</h1>
 
 <p align="center">
-    <img height="200px" width="auto"  src="https://raw.githubusercontent.com/singhpriansh/singhpriansh/master/developer_image.png" />
+    <img height="200px" src="https://raw.githubusercontent.com/singhpriansh/singhpriansh/master/developer_image.png" />
 </p>
 
 <h3 align="center">I'm a passionate Software Developer from India.</h3>
@@ -29,7 +29,7 @@
 🚀 Tech Stack
 </h2>
 
-<p align="left">
+<p align="left" height="30">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
   <img width="12" />
