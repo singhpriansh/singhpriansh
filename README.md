@@ -23,7 +23,6 @@
 - 🖋️ Calligraphy, writes a lot
 - ⚽ Footballer, favorite team: **Jamshedpur FC**
 - 🎤 **Public speaker**, Team leader, Managing teams.
-
     <td>
       <h2> 🖥️ Donate to code more </h2>
       <img width="300px" src="https://raw.githubusercontent.com/singhpriansh/singhpriansh/master/GooglePay_QR.png" alt="QR Code"/>
