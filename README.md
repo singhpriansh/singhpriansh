@@ -11,37 +11,36 @@
     <td>
       <h2> ❤ About me </h2>
       <ul>
-        <li> 🌳 I’m currently developing my **skills**
-        <li> 👯 I’m looking to collaborate on **Advanced Projects**
-        <li> 📃 I like to <a style="text-decoration: none; color: inherit;" href="https://github.com/singhpriansh/Courses">**blog**</a>
-        <li> 👨‍💻 I am a competitive **coder**
-        <li> 👨‍💻 I know **embedded programming**
+        <li> 🌳 I’m currently developing my <a style="font-weight: bold;">skills</a>
+        <li> 👯 I’m looking to collaborate on <a style="font-weight: bold;">Advanced Projects </a>
+        <li> 📃 I like to <a style="text-decoration: none; color: inherit;" href="https://github.com/singhpriansh/Courses"> <a style="font-weight: bold;">blog </a></a>
+        <li> 👨‍💻 I am a competitive <a style="font-weight: bold;">coder </a>
+        <li> 👨‍💻 I know <a style="font-weight: bold;">embedded programming </a>
         <li> 🎠 Focussing on advanced paradigms
-        <li> 🎯 Technical expert know **multiple languages**
-        <li> ♟️ Loves playing chess **King: e1 -> g1 and Rook: h1 -> f1**
-        <li> 🎵 Singer, favorite beat **Raag Darbar**
+        <li> 🎯 Technical expert know <a style="font-weight: bold;">multiple languages </a>
+        <li> ♟️ Loves playing chess <a style="font-weight: bold;">King: e1 -> g1 and Rook: h1 -> f1 </a>
+        <li> 🎵 Singer, favorite beat <a style="font-weight: bold;">Raag Darbar </a>
         <li> 🖋️ Calligraphy, writes a lot
-        <li> ⚽ Footballer, favorite team: **Jamshedpur FC**
+        <li> ⚽ Footballer, favorite team: <a style="font-weight: bold;">Jamshedpur FC </a>
+        <li> 🎤 <a style="font-weight: bold;">Public speaker</a>, Team leader, Managing teams.
       </ul>
     </td>
     <td>
-      <h2> 🖥️ Donate for more </h2>
+      <h2> 🖥️ Donate to code more </h2>
       <img width="300px" src="https://raw.githubusercontent.com/singhpriansh/singhpriansh/master/GooglePay_QR.png" alt="QR Code"/>
     </td>
   </tr>
 </table>
 
-<h2  align="center"> 📊 Github Stats & Activity </h2>
+<h2 align="center"> 📊 Github Stats & Activity </h2>
 <h3 align="center"> ⭐️ My Contribution Streak 🔥🔥 </h3>
 
 <div align="center">
 
 ![singhpriansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhpriansh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&background=0%2CEB545400%2CEB545400) ![singhpriansh's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhpriansh&layout=compact&theme=react&hide_border=true&bg_color=0D1117&background=0%2CEB545400%2CEB545400)
-
 ![singhpriansh's graph](https://github-readme-activity-graph.vercel.app/graph/?username=singhpriansh&theme=react&hide_border=true&bg_color=0D1117&background=0%2CEB545400%2CEB545400)
 
 </div>
-
 
 <h2 align="center">
 🚀 Tech Stack
