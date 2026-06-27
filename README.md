@@ -6,13 +6,25 @@
 
 <h3 align="center">I'm a passionate Software Developer from India.</h3>
 
-## 🖐 About me ❤❤
+<table>
+  <tr>
+    <td>
+      <h2> 🖐 About me ❤❤ </h2>
+      <ul>
+        <li> 🌱 I’m currently developing my **skills**
+        <li> 👯 I’m looking to collaborate on **OpenSource Projects**
+        <li> 👨‍💻 I am a competitive **coder**
+        <li> 😇 Being normal is the **key**. Keep it **simple**
+        <li> ⚡ Fun fact/Interest: Listening songs, Watching movies & Football, Playing Chess
+      </ul>
+    </td>
+    <td>
+      <h2> 👓 Donate for code 🖥️💻</h2>
+      <img  width="144px" height="200px" src="https://raw.githubusercontent.com/singhpriansh/singhpriansh/master/GooglePay_QR.png" alt="QR Code"/>
+    </td>
+  </tr>
+</table>
 
-- 🌱 I’m currently developing my **skills**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 👨‍💻 I am a competitive **coder**
-- 😇 Being normal is the **key**. Keep it **simple**
-- ⚡ Fun fact/Interest: Listening songs, Watching movies & Football, Playing Chess
 
 ## 📊 Github Stats & Activity
 
