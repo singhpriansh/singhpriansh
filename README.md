@@ -1,45 +1,49 @@
-<h1 align="center">Hi <img  height="30px" width="30px" src="https://raw.githubusercontent.com/singhpriansh/singhpriansh/master/wave.gif">, I'm Priyanshu</h1>
+<h1 align="center"><img  height="80px" width="80px" src="hi.png">, I'm Priyanshu</h1>
 
 <p align="center">
   <img height="250px" width="303px" src="https://raw.githubusercontent.com/singhpriansh/singhpriansh/master/developer_image.png"/>
 </p>
 
-<h3 align="center">I'm a passionate Software Developer from India.</h3>
+<h3 align="center">Software Developer from India.</h3>
 
-<table>
+<table align="center">
   <tr>
     <td>
-      <h2> 🖐 About me ❤❤ </h2>
+      <h2> ❤ About me </h2>
       <ul>
-        <li> 🌱 I’m currently developing my **skills**
-        <li> 👯 I’m looking to collaborate on **OpenSource Projects**
+        <li> 🌳 I’m currently developing my **skills**
+        <li> 👯 I’m looking to collaborate on **Advanced Projects**
+        <li> 📃 I like to <a href="https://github.com/singhpriansh/Courses">**blog**</a>
         <li> 👨‍💻 I am a competitive **coder**
-        <li> 😇 Being normal is the **key**. Keep it **simple**
-        <li> ⚡ Fun fact/Interest: Listening songs, Watching movies & Football, Playing Chess
+        <li> 👨‍💻 I know **embedded programming**
+        <li> 🎠 Focussing on advanced paradigms
+        <li> 🎯 Technical expert know **multiple languages**
+        <li> ♟️ Loves playing chess **King: e1 -> g1 and Rook: h1 -> f1**
+        <li> 🎵 Singer, favorite beat **Raag Darbar**
+        <li> 🖋️ Calligraphy, writes a lot
+        <li> ⚽ Footballer, favorite team: **Jamshedpur FC**
       </ul>
     </td>
     <td>
-      <h2> 👓 Donate for code 🖥️💻</h2>
-      <img  width="460px" src="https://raw.githubusercontent.com/singhpriansh/singhpriansh/master/GooglePay_QR.png" alt="QR Code"/>
+      <h2> 🖥️ Donate for more </h2>
+      <img width="300px" src="https://raw.githubusercontent.com/singhpriansh/singhpriansh/master/GooglePay_QR.png" alt="QR Code"/>
     </td>
   </tr>
 </table>
 
+<h2  align="center"> 📊 Github Stats & Activity </h2>
+<h3 align="center"> ⭐️ My Contribution Streak 🔥🔥 </h3>
 
-## 📊 Github Stats & Activity
-
-⭐️ My Contribution Streak 🔥🔥
-
-> ![singhpriansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhpriansh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&background=0%2CEB545400%2CEB545400) ![singhpriansh's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhpriansh&layout=compact&theme=react&hide_border=true&bg_color=0D1117&background=0%2CEB545400%2CEB545400)
+![singhpriansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhpriansh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&background=0%2CEB545400%2CEB545400) ![singhpriansh's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhpriansh&layout=compact&theme=react&hide_border=true&bg_color=0D1117&background=0%2CEB545400%2CEB545400)
 
 ![singhpriansh's graph](https://github-readme-activity-graph.vercel.app/graph/?username=singhpriansh&theme=react&hide_border=true&bg_color=0D1117&background=0%2CEB545400%2CEB545400)
 
 
-<h2>
+<h2 align="center">
 🚀 Tech Stack
 </h2>
 
-<p height="30">
+<p align="center" height="30">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30px" height="30px" alt="cplusplus logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px" height="30px" alt="csharp logo"  />
@@ -77,8 +81,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="30px" height="30px" alt="aftereffects logo"  />
 </p>
 
-## Connect with me
-<div>
+<h2 align="center"> 📌 Connect with me</h2>
+<div align="center">
   <a href="https://www.linkedin.com/in/singhpriansh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -88,10 +92,20 @@
   <a href="https://twitter.com/singhpriansh_cc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+  <a href="https://medium.com/@singhpriansh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
   <a href="https://www.youtube.com/@singhpriansh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
+  <a href="https://www.instagram.com/singhpriansh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
-## Summary
-![GitHub_Streak](https://streak-stats.demolab.com?user=singhpriansh&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0%2CEB545400%2CEB545400)
+<h2 align="center">🙌 Summary </h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=singhpriansh&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0%2CEB545400%2CEB545400">
+  </img>
+</p>
