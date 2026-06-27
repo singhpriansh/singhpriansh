@@ -20,7 +20,7 @@
     </td>
     <td>
       <h2> 👓 Donate for code 🖥️💻</h2>
-      <img  width="288px" src="https://raw.githubusercontent.com/singhpriansh/singhpriansh/master/GooglePay_QR.png" alt="QR Code"/>
+      <img  width="460px" src="https://raw.githubusercontent.com/singhpriansh/singhpriansh/master/GooglePay_QR.png" alt="QR Code"/>
     </td>
   </tr>
 </table>
