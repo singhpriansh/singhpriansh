@@ -13,7 +13,7 @@
       <ul>
         <li> 🌳 I’m currently developing my **skills**
         <li> 👯 I’m looking to collaborate on **Advanced Projects**
-        <li> 📃 I like to <a href="https://github.com/singhpriansh/Courses">**blog**</a>
+        <li> 📃 I like to <a style="text-decoration: none; color: inherit;" href="https://github.com/singhpriansh/Courses">**blog**</a>
         <li> 👨‍💻 I am a competitive **coder**
         <li> 👨‍💻 I know **embedded programming**
         <li> 🎠 Focussing on advanced paradigms
@@ -34,9 +34,13 @@
 <h2  align="center"> 📊 Github Stats & Activity </h2>
 <h3 align="center"> ⭐️ My Contribution Streak 🔥🔥 </h3>
 
+<div align="center">
+
 ![singhpriansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhpriansh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&background=0%2CEB545400%2CEB545400) ![singhpriansh's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhpriansh&layout=compact&theme=react&hide_border=true&bg_color=0D1117&background=0%2CEB545400%2CEB545400)
 
 ![singhpriansh's graph](https://github-readme-activity-graph.vercel.app/graph/?username=singhpriansh&theme=react&hide_border=true&bg_color=0D1117&background=0%2CEB545400%2CEB545400)
+
+</div>
 
 
 <h2 align="center">
