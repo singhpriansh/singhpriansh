@@ -86,22 +86,16 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/singhpriansh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
- ** 
   <a href="https://stackoverflow.com/users/14113939/singhpriansh?tab=profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
- ** 
   <a href="https://twitter.com/singhpriansh_cc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
- ** 
   <a href="https://medium.com/@singhpriansh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
- ** 
   <a href="https://www.youtube.com/@singhpriansh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
- ** 
   <a href="https://www.instagram.com/singhpriansh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
- ** 
 </div>
 
 <h2 align="center">🙌 Summary </h2>
